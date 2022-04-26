@@ -1,1 +1,1 @@
-Efforless toolkit for Vietnamese reviews tagging and extraction.
+Efforless toolkit for Vietnamese review tagging and extraction.
